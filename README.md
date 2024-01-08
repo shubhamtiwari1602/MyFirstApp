@@ -1,4 +1,4 @@
-# food
+# Simple currency convertor app
 
 A new Flutter project.
 
